@@ -1,0 +1,7 @@
+{
+  "npm": " https://registry.npmjs.org/",
+  "yarn": "https://registry.yarnpkg.com/",
+  "cnpm": "https://r.cnpmjs.org/",
+  "taobao": "https://registry.npmmirror.com/",
+  "tencent": "https://mirrors.cloud.tencent.com/npm/"
+}
